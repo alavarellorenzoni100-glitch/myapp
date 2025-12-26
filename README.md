@@ -11,9 +11,8 @@ Esecuzione
 1. Nella root del progetto:
    ```bash
    dart pub get
-   dart run bin/server.dart
+   dart run 
    ```
-2. Apri il browser su: http://localhost:8080
 
 Struttura suggerita
 - pubspec.yaml
